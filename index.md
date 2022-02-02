@@ -1,13 +1,9 @@
-## Willkommen auf Cubistic-Gamres
+## Willkommen auf Cubistic-Games
 
 Diese Webseite ist aktuell noch in Arbeit. Bitte komme später wieder.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+Webseite Infos:
 
 # Header 1
 ## Header 2
@@ -18,8 +14,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-3. Test
-4. Test 2
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,11 +22,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Support
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrAhmalo/cubistic-games/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
- 
+Du brauchst Support? Komme auf [diese](https://www.youtube.com/watch?v=o-YBDTqX_ZU) und wir können dir helfen.
