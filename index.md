@@ -25,3 +25,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Support
 
 Du brauchst Support? Komme auf [diese](https://www.youtube.com/watch?v=o-YBDTqX_ZU) und wir können dir helfen.
+ 
