@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Willkommen auf Cubistic-Gamres
 
-You can use the [editor on GitHub](https://github.com/MrAhmalo/cubistic-games/edit/Website/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diese Webseite ist aktuell noch in Arbeit. Bitte komme später wieder.
 
 ### Markdown
 
