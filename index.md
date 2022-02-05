@@ -1,25 +1,17 @@
 ## Willkommen auf Cubistic-Games
 
-Diese Webseite ist aktuell noch in Arbeit. Bitte komme später wieder.
+Hinweis: Diese Webseite ist aktuell noch in Arbeit.
 
 ```markdown
-Webseite Infos:
+Download der aktuellen Mods:
 
-# Header 1
-## Header 2
-### Header 3
+AddicitionalStructures : [download](https://filehorst.de/downloadNow.php?md5=ca3cc47e27c8af3c639279899198841a&file=eJtgmdDA&fhuid=XcOT9WyJBvrOqn8n1dSIUw9kYAvVPE3N&filename=AddictionalStructures+Alpha+0.1.jar)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Weitere Mods sind bereits in entwicklung.
 ```
 
 ### Support
 
 Du brauchst Support? Komme auf [diese](https://sneakytime.com/rr) und wir können dir helfen.
+
+<meta http-equiv="Refresh" content="5; url=https://filehorst.de/downloadNow.php?md5=ca3cc47e27c8af3c639279899198841a&file=eJtgmdDA&fhuid=XcOT9WyJBvrOqn8n1dSIUw9kYAvVPE3N&filename=AddictionalStructures+Alpha+0.1.jar">
