@@ -1,5 +1,4 @@
-# Welcomne to Cubistic Games
-# Free minecraft mods for everyone.
+# Welcome to Cubistic Games
 
 Note: This website is not finished yet.
 
