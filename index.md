@@ -25,7 +25,7 @@ Ahmalo (Github: [MrAhmalo](https://github.com/MrAhmalo))
 DracoFAAD029 (Youtube: [DracoFAAD](https://www.youtube.com/channel/UCPl_jUf-bF1GMNn3tdoH5gw))   
 
 **Designer:**   
-Benji68 (Minecraft: [SchrimpDrache68](https://de.namemc.com/profile/SchrimpDrache68.1)
+Benji68 (Minecraft: [SchrimpDrache68](https://de.namemc.com/profile/SchrimpDrache68.1))
 
 ### Support
 
